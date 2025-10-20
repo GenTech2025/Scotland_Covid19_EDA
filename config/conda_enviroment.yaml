@@ -1,0 +1,16 @@
+name: scotland-covid-analysis
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - jupyter
+  - requests
+  - pip
+  
