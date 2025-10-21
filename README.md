@@ -10,7 +10,7 @@
 <p align="center">
   <img src="./plots/daily_new_deaths.png" width="400">
   <br>
-  <em>Figure 1: Number of Covid cases from early 2020 till late 2023.</em>
+  <em>Figure 2: daily number of death from early 2020 till late 2023.</em>
 </p>
 
 In this project I identified the causes for the rise in COVID-19 cases during the Omicron wave, which began at the end of 2021 and lasted in Scotland through the first few months of 2022. Upon reviewing various line graphs presenting the cumulative number of people vaccinated with the first two doses, it was evident that most of the population had received two doses of COVID-19 vaccines by the end of 2021. At that time, the vaccination drive for the third dose (booster) was underway but was not completed until the first quarter of 2022.
